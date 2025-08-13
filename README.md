@@ -1,6 +1,6 @@
 ````
-````markdown
-#  Expense Tracker (Java Console App)
+
+ Expense Tracker (Java Console App)
 
 > Note: This  was built during my 3rd semester as part of my Java learning journey.  
 > I am now in my **5th semester**, continuing to improve my coding skills and revisiting older projects to enhance them.
