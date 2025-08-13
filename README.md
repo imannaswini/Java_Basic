@@ -1,6 +1,3 @@
-Here’s your **updated README** with the 3rd semester note included and ready to paste into GitHub:
-
----
 
 ````markdown
 #  Expense Tracker (Java Console App)
