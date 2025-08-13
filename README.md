@@ -15,12 +15,14 @@ A simple Java console-based Expense Tracker that lets users:
 - Handles invalid inputs gracefully
 - Stores expenses using `ArrayList`
 
- How to Run
+
+
+````
+   How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/ExpenseTracker.git
-````
-
+   
 2. Navigate to the project folder:
 
    ```bash
